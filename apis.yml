@@ -1,0 +1,52 @@
+name: Nimble AppGenie
+description: >-
+  Nimble AppGenie is a fintech- and AI-focused custom software development agency based in London, UK, offering mobile
+  app, web, and software development services worldwide. It exposes no conventional API; the only publicly reachable
+  agent-native artifact is a marketing/SEO llms.txt file.
+url: https://nimble-appgenie.apievangelist.com/apis.yml
+created: '2026-08-13'
+modified: '2026-08-13'
+specificationVersion: '0.21'
+tags:
+  - fintech
+  - mobile-app-development
+  - web-development
+  - ai-software
+  - ewallet
+  - neobanking
+  - lending-bnpl
+  - crypto-defi
+  - regtech-compliance
+  - software-development-agency
+  - staff-augmentation
+apis:
+  - name: Nimble AppGenie llms.txt
+    description: >-
+      An llms.txt marketing/brand document structured to help large language models interpret Nimble AppGenie's
+      expertise, industry verticals, compliance standards, and service capabilities. It is not a machine-readable API
+      contract and exposes no endpoints, schemas, or authentication.
+    humanURL: https://www.nimbleappgenie.com
+    baseURL: https://www.nimbleappgenie.com
+    tags:
+      - fintech
+      - mobile-app-development
+      - web-development
+      - ai-software
+      - ewallet
+      - neobanking
+      - lending-bnpl
+      - crypto-defi
+      - regtech-compliance
+      - software-development-agency
+      - staff-augmentation
+    properties:
+      - type: LLMsTxt
+        url: https://www.nimbleappgenie.com/llms.txt
+maintainers:
+  - FN: Nimble AppGenie
+    url: https://www.nimbleappgenie.com
+generated:
+  by: apis.io/add
+  model: claude-opus-4-8
+  confidence: 70
+  at: '2026-08-13T12:27:51.592Z'

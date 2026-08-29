@@ -4,6 +4,17 @@ description: >-
   app, web, and software development services worldwide. It exposes no conventional API; the only publicly reachable
   agent-native artifact is a marketing/SEO llms.txt file.
 url: https://nimble-appgenie.apievangelist.com/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 created: '2026-08-13'
 modified: '2026-08-13'
 specificationVersion: '0.21'

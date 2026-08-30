@@ -19,6 +19,18 @@ created: '2026-08-13'
 modified: '2026-08-13'
 specificationVersion: '0.21'
 tags:
+  - Fintech
+  - Mobile App Development
+  - Web Development
+  - ai-software
+  - E-Wallet
+  - neobanking
+  - lending-bnpl
+  - Crypto Defi
+  - regtech-compliance
+  - Software Development Agency
+  - Staff Augmentation
+tags_raw:
   - fintech
   - mobile-app-development
   - web-development
@@ -39,6 +51,18 @@ apis:
     humanURL: https://www.nimbleappgenie.com
     baseURL: https://www.nimbleappgenie.com
     tags:
+      - Fintech
+      - Mobile App Development
+      - Web Development
+      - ai-software
+      - E-Wallet
+      - neobanking
+      - lending-bnpl
+      - Crypto Defi
+      - regtech-compliance
+      - Software Development Agency
+      - Staff Augmentation
+    tags_raw:
       - fintech
       - mobile-app-development
       - web-development

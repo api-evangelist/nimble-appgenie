@@ -19,10 +19,10 @@ modified: '2026-09-16'
 specificationVersion: '0.21'
 tags:
 - Fintech
-- Mobile App Development
+- Mobile Development
 - Web Development
 - ai-software
-- E-Wallet
+- Digital Wallet
 - neobanking
 - lending-bnpl
 - Crypto Defi
@@ -41,19 +41,20 @@ tags_raw:
 - regtech-compliance
 - software-development-agency
 - staff-augmentation
+- Mobile App Development
+- E-Wallet
 apis:
 - name: Nimble AppGenie llms.txt
   description: An llms.txt marketing/brand document structured to help large language models interpret
     Nimble AppGenie's expertise, industry verticals, compliance standards, and service capabilities. It
     is not a machine-readable API contract and exposes no endpoints, schemas, or authentication.
   humanURL: https://www.nimbleappgenie.com
-  baseURL: https://www.nimbleappgenie.com
   tags:
   - Fintech
-  - Mobile App Development
+  - Mobile Development
   - Web Development
   - ai-software
-  - E-Wallet
+  - Digital Wallet
   - neobanking
   - lending-bnpl
   - Crypto Defi
@@ -72,6 +73,8 @@ apis:
   - regtech-compliance
   - software-development-agency
   - staff-augmentation
+  - Mobile App Development
+  - E-Wallet
   properties:
   - type: LLMsTxt
     url: https://www.nimbleappgenie.com/llms.txt

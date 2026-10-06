@@ -15,7 +15,7 @@ deliveryModel:
   generated: '2026-08-28'
   method: derived
 created: '2026-08-13'
-modified: '2026-09-16'
+modified: '2026-10-06'
 specificationVersion: '0.21'
 tags:
 - Fintech
@@ -87,5 +87,9 @@ generated:
   confidence: 70
   at: '2026-08-13T12:27:51.592Z'
 common:
+- url: https://www.nimbleappgenie.com/blogs/
+  type: Blog
+- url: https://www.nimbleappgenie.com/blogs/feed/
+  type: BlogRSS
 - type: Website
   url: https://nimbleappgenie.com
